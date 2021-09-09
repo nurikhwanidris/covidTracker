@@ -3,7 +3,7 @@
     <div class="text-3xl md:text-5xl font-bold mb-3">
       <i class="fa fa-viruses"></i> Covid-19 Tracker
     </div>
-
+    <p>Made by Ikhwan</p>
     <p>
       API by
       <a href="https://covid19api.com" target="_blank" class="text-blue-300"
